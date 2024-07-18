@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaGE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed1ba5b4385f51a52396d73e634fbfcbc4522e17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb23b5f17a03f1a813073811a8122a012bcee56f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaGE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaGE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

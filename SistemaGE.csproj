@@ -24,14 +24,6 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="DTO\InvAlmacen\" />
-    <Folder Include="DTO\InvArticulo\" />
-    <Folder Include="DTO\InvArticuloAlmacen\" />
-    <Folder Include="DTO\InvArticuloSuplidor\" />
-    <Folder Include="DTO\InvSuplidor\" />
-    <Folder Include="DTO\InvTipoDocumento\" />
-    <Folder Include="DTO\InvUbicacion\" />
-    <Folder Include="DTO\InvUnidade\" />
   </ItemGroup>
 
 </Project>

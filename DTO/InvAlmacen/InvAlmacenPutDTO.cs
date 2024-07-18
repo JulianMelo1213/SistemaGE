@@ -1,6 +1,6 @@
 ﻿namespace SistemaGE.DTO.InvAlmacen
 {
-    public class InvAlmacenGetDTO
+    public class InvAlmacenPutDTO
     {
         public int IdAlmacen { get; set; }
 

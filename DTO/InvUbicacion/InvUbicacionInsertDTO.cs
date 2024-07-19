@@ -1,9 +1,7 @@
-﻿namespace SistemaGE.DTO.InvUnidade
+﻿namespace SistemaGE.DTO.InvUbicacion
 {
-    public class InvUnidadeGetDTO
+    public class InvUbicacionInsertDTO
     {
-        public int IdUnidad { get; set; }
-
         public string Descripcion { get; set; } = null!;
 
         public bool Estatus { get; set; }

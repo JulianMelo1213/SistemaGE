@@ -1,6 +1,6 @@
 ﻿namespace SistemaGE.DTO.InvSuplidor
 {
-    public class InvSuplidorGetDTO
+    public class InvSuplidorPutDTO
     {
         public int IdSuplidor { get; set; }
 

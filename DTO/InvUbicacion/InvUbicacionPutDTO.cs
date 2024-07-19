@@ -1,6 +1,6 @@
 ﻿namespace SistemaGE.DTO.InvUbicacion
 {
-    public class InvUbicacionGetDTO
+    public class InvUbicacionPutDTO
     {
         public int IdUbicacion { get; set; }
 

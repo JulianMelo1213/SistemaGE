@@ -1,6 +1,6 @@
 ﻿namespace SistemaGE.DTO.InvArticulo
 {
-    public class InvArticuloGetDTO
+    public class InvArticuloPutDTO
     {
         public int IdArticulo { get; set; }
 

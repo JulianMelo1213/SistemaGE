@@ -1,9 +1,7 @@
 ﻿namespace SistemaGE.DTO.InvSuplidor
 {
-    public class InvSuplidorGetDTO
+    public class InvSuplidorInsertDTO
     {
-        public int IdSuplidor { get; set; }
-
         public string Nombre { get; set; } = null!;
 
         public string Identificacion { get; set; } = null!;

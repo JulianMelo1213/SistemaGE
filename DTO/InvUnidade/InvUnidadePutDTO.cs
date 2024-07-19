@@ -1,6 +1,6 @@
 ﻿namespace SistemaGE.DTO.InvUnidade
 {
-    public class InvUnidadeGetDTO
+    public class InvUnidadePutDTO
     {
         public int IdUnidad { get; set; }
 

@@ -1,9 +1,7 @@
 ﻿namespace SistemaGE.DTO.InvArticulo
 {
-    public class InvArticuloGetDTO
+    public class InvArticuloInsertDTO
     {
-        public int IdArticulo { get; set; }
-
         public string Descripcion { get; set; } = null!;
 
         public bool Estatus { get; set; }
